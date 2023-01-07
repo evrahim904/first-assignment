@@ -1,0 +1,79 @@
+/* banner style */
+.banner {
+    background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    width: 1400px;
+    height: 700px;
+    text-align: right;
+    display: flex;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin: 193px 230px 24px 845px;
+    width: 525px;
+    height: 228px;
+}
+
+.header-description {
+    color: #444343;
+    margin: 24px 230px 32px 876px;
+    width: 494px;
+    height: 78px;
+}
+
+.btn-primery {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    background: #F15B22;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    margin: 28px 230px;
+    padding: 20px 25px;
+}
+
+/* main style */
+.about {
+    display: flex;
+    width: 1067px;
+    height: 735.3px;
+    margin: 153px 300px 90px 225px;
+    gap:0
+}
+
+.about-description {
+    width: 416px;
+    height: 406.64px;
+    margin: 182px 308px 290px 80px;
+}
+
+.about-image {
+    width: 569px;
+    height: 735.3px;
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 95.56px;
+    margin-bottom: 20px;
+}
+
+.lorem {
+    width: 416px;
+    height: 105.73px;
+    margin-top: 24px;
+    margin:10px 23px 6px 2px;
+}
+
+.checklist {
+    width: 349px;
+    height: 164.69px;
+    margin:10px 23px 6px 2px;
+}
