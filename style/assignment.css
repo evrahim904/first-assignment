@@ -43,7 +43,7 @@
     width: 1067px;
     height: 735.3px;
     margin: 153px 300px 90px 225px;
-    gap:0
+    gap: 0
 }
 
 .about-description {
@@ -69,11 +69,107 @@
     width: 416px;
     height: 105.73px;
     margin-top: 24px;
-    margin:10px 23px 6px 2px;
+    margin: 10px 23px 6px 2px;
 }
 
 .checklist {
     width: 349px;
     height: 164.69px;
-    margin:10px 23px 6px 2px;
+    margin: 10px 23px 6px 2px;
 }
+
+/* my plan style */
+.section-title {
+    width: 179px;
+    height: 47px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin: 50px 500px;
+}
+
+.skill-container {
+    display: flex;
+    width: 1141px;
+    height: 202.96px;
+    margin: 50px 300px;
+}
+
+.skill {
+    width: 214px;
+    height: 197px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    width: 174px;
+    height: 35px;
+    color: #151414;
+}
+
+.icon {
+    width: 92.96px;
+    height: 92.96px;
+    padding-bottom: 2px;
+}
+
+.icon-description {
+    color: #737272;
+    width: 214px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* contact style */
+.contact-imag {
+    margin: 150px 300px 200px 174px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    width: 840px;
+    height: 300px;
+    background-image: url(../images/watch.png);
+    background-size:cover;
+    border-radius: 8px;
+}
+.contact-info {
+    width: 5px;
+    height: 0px;
+    left: 94px;
+    top: 2280.96px;
+    margin: 4px 1px 7px px;
+ border-radius: 8px;
+}
+.contact-sub-title {
+    position: relative;
+  text-align: center;
+  color:red
+}
+
+.contact-title {
+    width: 459px;
+    height: 94px;
+    margin: 4px 300px 2px 70px;
+    font-weight: 600;
+    font-size: 40px;
+    position: absolute;
+  bottom: 150px;
+  left:5px
+}
+.call {
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 4px 30px 7px 70px;
+    position: absolute;
+  bottom: 80px;
+  left: 150px;
+}
+
+
+
+
+
