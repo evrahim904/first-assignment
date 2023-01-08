@@ -168,8 +168,76 @@
   bottom: 80px;
   left: 150px;
 }
-
-
-
+.gradient{
+    width: 800px;
+    height: 300px;
+    padding-top: 
+}
+/* footer style */
+.footer{
+    background: #151414;
+    width: 1400px;
+height: 547px;
+display: flex;
+margin-top: 100px;
+}
+.footer-info{
+    color:white; 
+    margin: 84px 230px 130px 120px;
+}
+.footer-title{
+    width: 148px;
+height: 53px;
+font-weight: 700;
+font-size: 45px;
+}
+.footer-description{
+    width: 485px;
+height: 78px;
+}
+.social-info{
+    width: 186px;
+height: 146px;
+}
+.social-address{
+    width: 184px;
+height: 26px;
+}
+.social.id{
+    width: 47px;
+height: 46px;
+}
+/* subscribe style */
+.subscribe{
+    color:white; 
+    text-align:center;
+    margin: 104px 50px  30px;
+    padding: 5px 150px 50px 30px;
+}
+.subscribe-title{
+    width: 123px;
+height: 29px
+font-weight: 600;
+font-size: 25px;
+}
+.subscribe-email{
+    width: 275px;
+height: 54px;
+font-weight: 400;
+font-size: 18px;
+background: #151414;
+}
+.submit{
+    background: #005FAC;
+border-radius: 8px;
+width: 150.11px;
+height: 54px;
+font-weight: 600;
+font-size: 20px;
+color: white;
+background-position: left;
+margin-right: 140px ;
+margin-top: 10px;
+}
 
 
