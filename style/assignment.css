@@ -77,7 +77,10 @@
     height: 164.69px;
     margin: 10px 23px 6px 2px;
 }
-
+p i{
+   color:blue;
+}
+    
 /* my plan style */
 .section-title {
     width: 179px;
